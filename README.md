@@ -1,7 +1,6 @@
 # SpringCloudSgg
 SpringCloud 尚硅谷 周阳老师学习代码
-
-SpringCloud笔记是自己看视频所编写，里面也有大部分的sql建库建表语句
+SpringCloud笔记是自己看视频所编写，里面也有大部分的sql建库建表语句，也有自己踩过的很多坑
 
 
 是markdown格式的
