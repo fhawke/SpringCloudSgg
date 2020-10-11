@@ -1,0 +1,19 @@
+server:
+  port: 81
+
+spring:
+  application:
+    name: cloud-consumer-order
+  zipkin:
+    base-url: http://192.168.119.129:9411
+  sleuth:
+    sampler:
+    #采样率值介于 0 到 1 之间，1 则表示全部采集
+    probability: 1
+#  cloud:
+#    #注册到zookeeper地址
+#    zookeeper:
+#      connect-string: 192.168.119.128:2181
+
+
+
